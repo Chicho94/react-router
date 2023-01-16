@@ -1,0 +1,11 @@
+.author {
+  display: block;
+  padding: 5px;
+  margin: 5px;
+  width: 300px;
+}
+
+.non-author, .non-author:focus, .non-author:focus-visible{
+  border: none;
+  outline: none;
+}
